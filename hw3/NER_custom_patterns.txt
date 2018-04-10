@@ -1,0 +1,592 @@
+NER with custom patterns selected..
+The rule: "NP: {<DT|PP\$>?<JJ.*>*<NNP.*>}"
+
+
+10  most common entities
+Alice: 334
+the Queen: 62
+Turtle: 57
+the King: 56
+the Gryphon: 51
+*: 51
+the Mock: 49
+the Hatter: 45
+the Duchess: 33
+Hare: 31
+
+ All entities: 
+
+
+ 'And
+
+ 'Beautiful Soup
+
+ 'Come
+
+ 'Curiouser
+
+ 'It
+
+ 'The
+
+ 'There
+
+ 'This
+
+ 'Turn
+
+ 'You
+
+ 'a
+
+ 'and
+
+ 'arrum
+
+ 'how
+
+ 'i
+
+ 'it
+
+ 'moral
+
+ 'poison
+
+ 'they
+
+ 'you
+
+ *
+
+ * *
+
+ ***
+
+ Ada
+
+ Ah
+
+ Alice
+
+ Ambition
+
+ Ann
+
+ Arithmetic
+
+ Atheling
+
+ Australia
+
+ Author
+
+ Be
+
+ Beau
+
+ Beautiful
+
+ Between
+
+ Bill
+
+ Brandy
+
+ Canterbury
+
+ Carroll
+
+ Cat
+
+ Coils
+
+ Come
+
+ Coming
+
+ Date
+
+ December
+
+ Derision
+
+ Dinah
+
+ Dinn
+
+ Distraction
+
+ Do
+
+ Dormouse
+
+ Down
+
+ Drawling
+
+ EBook
+
+ Edgar
+
+ Edwin
+
+ Elsie
+
+ England
+
+ English
+
+ English ***
+
+ Evidence
+
+ Fainting
+
+ Father
+
+ First
+
+ Five
+
+ Forty-two
+
+ France
+
+ French
+
+ Game
+
+ Geography
+
+ Good-bye
+
+ Grammar
+
+ Grief
+
+ Gutenberg
+
+ Half-past
+
+ Hare
+
+ Has
+
+ Hatter
+
+ Heads
+
+ Hearts
+
+ Him
+
+ How
+
+ Imagine
+
+ June
+
+ Keep
+
+ Kings
+
+ Lacie
+
+ Latin
+
+ Latitude
+
+ Laughing
+
+ Lewis
+
+ License
+
+ London
+
+ Longitude
+
+ Ma
+
+ Ma'am
+
+ Mabel
+
+ Majesty
+
+ March
+
+ Mary
+
+ May
+
+ Mercia
+
+ Miss
+
+ Mock
+
+ Morcar
+
+ Mouse
+
+ Mystery
+
+ Nay
+
+ Never
+
+ Normans
+
+ Northumbria
+
+ Number
+
+ Off
+
+ One
+
+ Paris
+
+ Pat
+
+ Pennyworth
+
+ Pepper
+
+ Pig
+
+ Please
+
+ Poor
+
+ Pray
+
+ Prizes
+
+ Project
+
+ Puss
+
+ Quadrille
+
+ Queen
+
+ Queens
+
+ Quick
+
+ Rabbit
+
+ Rome
+
+ Run
+
+ Said
+
+ Seaography
+
+ Sends
+
+ Serpent
+
+ Seven
+
+ Shakespeare
+
+ Silence
+
+ So
+
+ Soo
+
+ Soon
+
+ Sounds
+
+ Soup
+
+ Stigand
+
+ Story
+
+ Stretching
+
+ Suppress
+
+ Table
+
+ Take
+
+ Tears
+
+ The Antipathies
+
+ The Cat
+
+ The Caterpillar
+
+ The Dormouse
+
+ The Duchess
+
+ The Fish-Footman
+
+ The Footman
+
+ The Frog-Footman
+
+ The Gryphon
+
+ The Hatter
+
+ The King
+
+ The Knave
+
+ The Lobster
+
+ The March
+
+ The Mock
+
+ The Mouse
+
+ The Panther
+
+ The Pool
+
+ The Queen
+
+ The Rabbit
+
+ The White
+
+ The miserable Hatter
+
+ The poor little Lizard
+
+ Tillie
+
+ Time
+
+ Too
+
+ Tortoise
+
+ Trims
+
+ Turn
+
+ Turtle
+
+ Twinkle
+
+ Ugh
+
+ Uglification
+
+ Visit
+
+ Was
+
+ Which
+
+ Will
+
+ William
+
+ Wonderland
+
+ Writhing
+
+ Zealand
+
+ [
+
+ ] Language
+
+ ] Release
+
+ a Canary
+
+ a Caterpillar
+
+ a Caucus-race
+
+ a Cheshire
+
+ a Dodo
+
+ a Dormouse
+
+ a Duchess
+
+ a Duck
+
+ a Gryphon
+
+ a Jack-in-the-box
+
+ a Little Bill
+
+ a Lobster
+
+ a Lory
+
+ a March
+
+ a Mock
+
+ a White
+
+ a real Turtle
+
+ an Eaglet
+
+ an old Turtle
+
+ beautiful Soup
+
+ cat Dinah
+
+ confused poor Alice
+
+ cried Alice
+
+ dear Dinah
+
+ dear Sir
+
+ every Christmas
+
+ exclaimed Alice
+
+ foolish Alice
+
+ good English
+
+ inquired Alice
+
+ interrupted Alice
+
+ last March
+
+ little Alice
+
+ little Bill
+
+ means
+
+ noticed Alice
+
+ old Magpie
+
+ ootiful Soo
+
+ pleaded Alice
+
+ poor Alice
+
+ replied Alice
+
+ shouted Alice
+
+ sure _i_
+
+ that Cheshire
+
+ the Cat
+
+ the Caterpillar
+
+ the Cheshire
+
+ the Classics
+
+ the Conqueror
+
+ the Dodo
+
+ the Dormouse
+
+ the Drawling-master
+
+ the Duchess
+
+ the Duck
+
+ the Eaglet
+
+ the English
+
+ the Fish-Footman
+
+ the Footman
+
+ the Gryphon
+
+ the Hatter
+
+ the King
+
+ the Knave
+
+ the Lizard
+
+ the Lobster
+
+ the Lory
+
+ the March
+
+ the Mock
+
+ the Mouse
+
+ the Multiplication
+
+ the Nile
+
+ the Owl
+
+ the Panther
+
+ the Pigeon
+
+ the Project
+
+ the Queen
+
+ the Rabbit
+
+ the Rabbit-Hole Alice
+
+ the Shark
+
+ the Tarts
+
+ the White
+
+ the frightened Mouse
+
+ the miserable Mock
+
+ the real Mary
+
+ the young Crab
+
+ this Alice
+
+ this New
+
+ thought Alice
+
+ upon Alice
+
+ v. Advice
+
+ wonderful Adventures
+
+Process finished with exit code 0

@@ -1,0 +1,269 @@
+NER classification selected..
+NER with entity classification (using nltk.ne_chunk) 
+
+
+
+ Gutenberg :  PERSON
+
+ Wonderland :  GPE
+
+ Lewis Carroll :  PERSON
+
+ Project Gutenberg License :  ORGANIZATION
+
+ Release Date :  PERSON
+
+ English :  GPE
+
+ White Rabbit :  FACILITY
+
+ Rabbit :  ORGANIZATION
+
+ Alice :  PERSON
+
+ Which :  PERSON
+
+ Latitude :  PERSON
+
+ Longitude :  ORGANIZATION
+
+ Please :  PERSON
+
+ Australia :  GPE
+
+ Down :  PERSON
+
+ Dinah :  PERSON
+
+ Pool :  ORGANIZATION
+
+ Tears :  PERSON
+
+ Poor Alice :  PERSON
+
+ Duchess :  ORGANIZATION
+
+ Ada :  PERSON
+
+ Mabel :  PERSON
+
+ Multiplication Table :  ORGANIZATION
+
+ Geography :  PERSON
+
+ London :  PERSON
+
+ Paris :  GPE
+
+ Rome :  GPE
+
+ How :  PERSON
+
+ Mouse :  PERSON
+
+ Latin Grammar :  PERSON
+
+ French :  GPE
+
+ William :  PERSON
+
+ Conqueror :  ORGANIZATION
+
+ Eaglet :  ORGANIZATION
+
+ Long :  GPE
+
+ Lory :  ORGANIZATION
+
+ Edwin :  PERSON
+
+ Morcar :  GPE
+
+ Mercia :  GPE
+
+ Northumbria :  GPE
+
+ Stigand :  GPE
+
+ Canterbury :  GPE
+
+ Duck :  ORGANIZATION
+
+ Edgar Atheling :  PERSON
+
+ Normans :  GPE
+
+ Dodo :  ORGANIZATION
+
+ Shakespeare :  PERSON
+
+ Crab :  PERSON
+
+ Ma :  GPE
+
+ Magpie :  PERSON
+
+ Rabbit Sends :  ORGANIZATION
+
+ Mary Ann :  PERSON
+
+ Quick :  PERSON
+
+ Ann :  PERSON
+
+ Miss Alice :  PERSON
+
+ Next :  PERSON
+
+ Pat :  PERSON
+
+ Sounds :  ORGANIZATION
+
+ Bill :  PERSON
+
+ Brandy :  PERSON
+
+ Lizard :  ORGANIZATION
+
+ Caterpillar :  ORGANIZATION
+
+ Father William :  PERSON
+
+ Pray :  PERSON
+
+ Has :  PERSON
+
+ Pigeon :  ORGANIZATION
+
+ Serpent :  GPE
+
+ Pig :  PERSON
+
+ Pepper :  PERSON
+
+ Footman :  ORGANIZATION
+
+ Cheshire :  ORGANIZATION
+
+ Cat :  ORGANIZATION
+
+ Puss :  PERSON
+
+ Visit :  PERSON
+
+ Hare :  PERSON
+
+ March Hare :  PERSON
+
+ Dormouse :  ORGANIZATION
+
+ Hatter :  PERSON
+
+ Time :  GPE
+
+ Hearts :  GPE
+
+ Twinkle :  PERSON
+
+ Queen :  ORGANIZATION
+
+ Elsie :  PERSON
+
+ Lacie :  PERSON
+
+ Tillie :  GPE
+
+ Seven :  PERSON
+
+ Five :  PERSON
+
+ Always :  PERSON
+
+ Miss :  GPE
+
+ First :  PERSON
+
+ Kings :  PERSON
+
+ Queens :  GPE
+
+ Knave :  ORGANIZATION
+
+ Hush :  PERSON
+
+ Cheshire Cat :  ORGANIZATION
+
+ Mock Turtle :  ORGANIZATION
+
+ Soup :  LOCATION
+
+ Mock Turtle Soup :  PERSON
+
+ Gryphon :  GPE
+
+ Turtle :  GPE
+
+ Mock :  ORGANIZATION
+
+ Writhing :  GPE
+
+ Arithmetic :  ORGANIZATION
+
+ Distraction :  GPE
+
+ Uglification :  GPE
+
+ Derision :  ORGANIZATION
+
+ Mystery :  PERSON
+
+ Seaography :  PERSON
+
+ Stretching :  GPE
+
+ Coils :  GPE
+
+ Classics :  ORGANIZATION
+
+ Grief :  PERSON
+
+ Lobster :  ORGANIZATION
+
+ England :  GPE
+
+ France :  GPE
+
+ Dinn :  PERSON
+
+ Lobster Quadrille :  ORGANIZATION
+
+ Shark :  GPE
+
+ Owl :  ORGANIZATION
+
+ Panther :  PERSON
+
+ Was :  GPE
+
+ Turtle Soup :  PERSON
+
+ Beautiful :  PERSON
+
+ Game :  GPE
+
+ King :  GPE
+
+ Imagine :  PERSON
+
+ Majesty :  ORGANIZATION
+
+ Number One :  PERSON
+
+ Him :  PERSON
+
+ Between :  PERSON
+
+ Nobody :  PERSON
+
+ Project Gutenberg :  ORGANIZATION
+
